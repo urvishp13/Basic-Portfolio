@@ -1,0 +1,37 @@
+aside {
+  text-align: center;
+  background: #4aaaa5;
+  color: #ffffff;
+  position: absolute;
+  margin-top: 45px;
+  width: 220px;
+}
+
+.container {
+  width: 600px;
+}
+
+.info {
+  width: 600px;
+}
+
+.cricket {
+  margin-left: 230px;
+}
+
+.image {
+  margin-top: 10px;
+}
+
+.microcomputer {
+  margin-top: 165px;
+}
+
+.baseball {
+  margin-top: 165px;
+  margin-left: 230px;
+}
+
+.music {
+  margin-top: 285px;
+}
